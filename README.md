@@ -15,8 +15,10 @@
 <p>Carmilla is one of the vampires in literature that predates Dracula and the American tropes of the 20th century onwards. Created by Sheridan Le Fanu in 1872, I was inspired by her to create this little text game. Here, you have been kidnapped by a vampire lady who wants to adopt you, in a bizarre mix of affection and obsession. She asks you some questions to determine your life points, vampiric power and define your rank and class in her family. This program uses a lot of <strong>conditional operators,</strong>strong> which was the focus of this study.</p>
 
  <h2>🤓 PREVIOUS PROJECTS</h2>
-   <p>
-  <a href="https://www.google.com](https://github.com/CaioHerminio/Magecraft">Project 1 - Magecraft University (variables and data types)</a>
+  <p>
+  <a href="https://github.com/CaioHerminio/Magecraft">Project 1 - Magecraft University (variables and data types)</a>
+  </p>
+  <p>
   <a href="https://github.com/CaioHerminio/hourglassofdreams">Project 2 - The Hourglass of Dreams (variables, arithmetic operations)</a>
   </p>
  
