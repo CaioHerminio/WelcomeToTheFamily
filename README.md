@@ -25,7 +25,7 @@
   <h2>🌱 Recommendation</h2>
   <p>If this project proves helpful for your learning or teaching, feel free to <strong>modify</strong>, <strong>improve</strong>, or <strong>simplify</strong> it to suit your needs. The Fool’s path is yours to walk in your own way.😊</p>
 
-  <img src="./assets/image_2.png" alt="The Fool's Journey Footer" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
+  <img src=";" />
 
 </body>
 </html>
