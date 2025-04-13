@@ -16,9 +16,8 @@
 
  <h2>🤓 PREVIOUS PROJECTS</h2>
    <p>
-  <a href="https://www.google.com](https://github.com/CaioHerminio/Magecraft)">Project 1 - Magecraft University (variables and data types)</a>
-  [Project 1 - Magecraft University (variables and data types)](https://github.com/CaioHerminio/Magecraft)
-  [Project 2 - The Hourglass of Dreams (variables, arithmetic operations)](https://github.com/CaioHerminio/hourglassofdreams)
+  <a href="https://www.google.com](https://github.com/CaioHerminio/Magecraft">Project 1 - Magecraft University (variables and data types)</a>
+  <a href="https://github.com/CaioHerminio/hourglassofdreams">Project 2 - The Hourglass of Dreams (variables, arithmetic operations)</a>
   </p>
  
   <h2>🌱 Recommendation</h2>
